@@ -1,7 +1,4 @@
 <?php
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
-
 //Подключение файла
 session_start();
 define ('ROOT', dirname(__FILE__));
